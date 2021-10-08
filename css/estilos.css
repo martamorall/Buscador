@@ -1,0 +1,33 @@
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+section{
+    background-color: #CAE694;
+    padding: 20px;
+    color:black;
+}
+h1{
+    background-color: #D193E6;
+    padding: 15px;
+    color: #CAE694; 
+}
+h3{
+    text-align: center;
+}
+input{
+    margin-left: 550px;
+}
+div{
+    padding: 20px;
+    text-align: justify;
+}
+hr{
+    margin-top: 30px;
+    color: black;
+
+}
+footer p{
+    padding-top: 20px;
+    text-align: center;
+}
